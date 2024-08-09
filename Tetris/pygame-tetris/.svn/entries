@@ -1,0 +1,70 @@
+8
+
+dir
+1
+https://python-pygame-tetris.googlecode.com/svn/trunk
+https://python-pygame-tetris.googlecode.com/svn
+
+
+
+2008-07-05T03:45:04.229811Z
+1
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+48b7e7aa-3e51-0410-8369-0b1d684509b8
+
+.project
+file
+2
+
+
+
+2008-07-05T21:05:16.000000Z
+2e46365e8d088dbd0aa709944edeb458
+2008-07-05T21:07:13.082801Z
+2
+nickcrafford
+
+.pydevproject
+file
+2
+
+
+
+2008-07-05T21:05:16.000000Z
+6804a6b061c2153313593c1228a0025e
+2008-07-05T21:07:13.082801Z
+2
+nickcrafford
+
+license.txt
+file
+3
+
+
+
+2008-07-05T21:01:40.000000Z
+4fe869ee987a340198fb0d54c55c47f1
+2008-07-05T21:10:43.257404Z
+3
+nickcrafford
+
+sound
+dir
+
+src
+dir
+
